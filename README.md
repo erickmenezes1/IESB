@@ -6,7 +6,7 @@ Implementação de Firewall para gerenciamento e segurança de redes e sistemas 
 
 Justificativa
 
-Com a implementação de um firewall é possivel gerenciar e proteger sistemas, servidores e dados de acessos nao autorizados.
+Com a implementação de um firewall é possivel gerenciar e proteger sistemas, servidores e dados contra acessos nao autorizados.
 
 Implementação
 
