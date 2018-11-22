@@ -10,6 +10,9 @@ Com a implementação de um firewall é possivel gerenciar e proteger sistemas, 
 
 Implementação
 
+Configuração do ambiente 
 Será utilizado o Hyper-V rodando em um Windows server 2016, uma VM com CentOS7 executando Zabbix, uma VM com pfSense v2.4.4
+Configurações de cada host
+Server 01
 
 
